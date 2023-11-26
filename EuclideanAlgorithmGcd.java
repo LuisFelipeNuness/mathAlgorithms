@@ -9,7 +9,7 @@ public class EuclideanAlgorithm
 		
 		int gcd = gcd(num1, num2);
 		
-		System.out.println(mdc);
+		System.out.println(gcd);
 	}
 	
 	public static int gcd(int num1, int num2){
