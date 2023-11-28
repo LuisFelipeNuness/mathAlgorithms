@@ -16,7 +16,7 @@ public class EuclideanAlgorithm
 	    int remainder = 0;
 	    while(true){
 	        remainder = num1 % num2;
-	        if(resto == 0){
+	        if(remainder == 0){
 	            return num2;
 	        }
 	        num1 = num2;
