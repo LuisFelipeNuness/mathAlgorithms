@@ -8,7 +8,7 @@ public class SquareNumbersSum {
     	
     	int sum = squareNumbersSum(n);
     	
-	    System.out.println(sum);
+	System.out.println(sum);
     }
     
     public static int squareNumbersSum(int n){
